@@ -1,0 +1,14 @@
+{
+  "name": "genesis2-the-garden",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Genesis 2 — The Garden: a code-only lyric film. Every frame is drawn from code.",
+  "scripts": {
+    "build": "python3 tools/build.py",
+    "stills": "node render/render.mjs stills out/stills --times 6,76,121,142,210,236,262,281",
+    "render": "node render/render.mjs video out/genesis2-the-garden.mp4"
+  },
+  "dependencies": { "@napi-rs/canvas": "1.0.9" },
+  "engines": { "node": ">=22" }
+}
