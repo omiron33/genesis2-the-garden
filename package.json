@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Genesis 2 — The Garden: a code-only lyric film. Every frame is drawn from code.",
+  "description": "Genesis 2, The Garden: a code-only lyric film. Every frame is drawn from code.",
   "scripts": {
     "build": "python3 tools/build.py",
     "stills": "node render/render.mjs stills out/stills --times 6,76,121,142,210,236,262,281",
