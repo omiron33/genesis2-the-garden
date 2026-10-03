@@ -2,6 +2,10 @@
 
 A 4:48 lyric film for a song setting of Genesis 2, drawn entirely in code. There are no photographs, no generated images and no generated video. Every frame is a pure function of the song's time.
 
+Built with the Ark engine: https://github.com/omiron33/ark-video-studio
+
+Listen and watch: [technochristianity.com/music](https://technochristianity.com/music) · [TechnoChristianity on YouTube](https://www.youtube.com/@technochristianity)
+
 ## The idea
 
 The whole world is one topographic height field, drawn as contour lines. Every scene is a different shape pressed into that same field, so each cut is a morph of the same lines rather than a hard edit:
