@@ -1,4 +1,4 @@
-# Genesis 2 — The Garden
+# Genesis 2, The Garden
 
 A 4:48 lyric film for a song setting of Genesis 2, drawn entirely in code. There are no photographs, no generated images and no generated video. Every frame is a pure function of the song's time.
 
